@@ -1,0 +1,15 @@
+{
+  "name": "dom-testing",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --reporter verbose --run"
+  },
+  "dependencies": {
+    "vitest": "^4.0.16"
+  }
+}
